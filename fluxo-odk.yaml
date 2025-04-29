@@ -1,0 +1,27 @@
+id: fluxo
+title: "Fluxomics Ontology"
+github_org: dtu-qmcm
+git_main_branch: main
+repo: fluxomics_ontology
+release_artefacts:
+  - base
+  - full
+  - simple
+primary_release: full
+export_formats:
+  - owl
+  - obo
+  - json
+import_group:
+  products:
+    - id: msio
+    - id: sbo
+    - id: obi
+    - id: chebi
+robot_java_args: "-Xmx8G"
+robot_report:
+  use_labels: TRUE
+  fail_on: ERROR
+  custom_profile: TRUE
+  report_on:
+    - edit
