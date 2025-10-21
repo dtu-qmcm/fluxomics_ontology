@@ -9,10 +9,7 @@ Prefix(dcterms:=<http://purl.org/dc/terms/>)
 
 
 Ontology(<http://purl.obolibrary.org/obo/fluxo.owl>
-Import(<http://purl.obolibrary.org/obo/fluxo/imports/chebi_import.owl>)
-Import(<http://purl.obolibrary.org/obo/fluxo/imports/msio_import.owl>)
-Import(<http://purl.obolibrary.org/obo/fluxo/imports/obi_import.owl>)
-Import(<http://purl.obolibrary.org/obo/fluxo/imports/sbo_import.owl>)
+Import(<http://purl.obolibrary.org/obo/fluxo/imports/merged_imports.owl>)
 Annotation(dcterms:description "None")
 Annotation(dcterms:license <https://creativecommons.org/licenses/unspecified>)
 Annotation(dcterms:title "Fluxomics Ontology")

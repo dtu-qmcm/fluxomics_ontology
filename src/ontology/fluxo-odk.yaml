@@ -13,6 +13,7 @@ export_formats:
   - obo
   - json
 import_group:
+  use_base_merging: TRUE
   products:
     - id: msio
       mirror_from: https://raw.githubusercontent.com/ISA-tools/MSIO/refs/heads/master/releases/1.0/MSIO-merged-reasoned.owl

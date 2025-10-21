@@ -7,8 +7,8 @@ Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 
 
 Ontology(<http://purl.obolibrary.org/obo/fluxo/imports/msio_import.owl>
-<http://purl.obolibrary.org/obo/fluxo/releases/2025-10-20/imports/msio_import.owl>
-Annotation(owl:versionInfo "2025-10-20")
+<http://purl.obolibrary.org/obo/fluxo/releases/2025-10-21/imports/msio_import.owl>
+Annotation(owl:versionInfo "2025-10-21")
 
 Declaration(Class(<http://purl.obolibrary.org/obo/OBI_0000245>))
 Declaration(NamedIndividual(<http://purl.obolibrary.org/obo/MSIO_0000068>))
