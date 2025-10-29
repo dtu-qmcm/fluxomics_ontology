@@ -1,14 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="public">
   <group id="odk-managed-catalog" prefer="public">
-    <uri name="http://purl.obolibrary.org/obo/fluxo/imports/msio_import.owl" uri="imports/msio_import.owl" />
-    <uri name="http://purl.obolibrary.org/obo/fluxo/imports/sbo_import.owl" uri="imports/sbo_import.owl" />
-    <uri name="http://purl.obolibrary.org/obo/fluxo/imports/obi_import.owl" uri="imports/obi_import.owl" />
-    <uri name="http://purl.obolibrary.org/obo/fluxo/imports/chebi_import.owl" uri="imports/chebi_import.owl" />
-  </group>
-  <group id="Folder Repository, directory=, recursive=false, Auto-Update=false, version=2" prefer="public">
-
-  
-  
+    <uri name="http://purl.obolibrary.org/obo/fluxo/imports/merged_import.owl" uri="imports/merged_import.owl" />
   </group>
 </catalog>
